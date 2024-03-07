@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import { Divider } from '@material-ui/core';
 import Addtodo from './components/Addtodo';
 import Listtodo from './components/Listtodo';
 import { useState } from 'react';
